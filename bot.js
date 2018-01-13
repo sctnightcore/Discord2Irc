@@ -1,7 +1,7 @@
 const startTime = new Date()
 const {Client, RichEmbed} = require('discord.js')
 const irc = require('irc')
-const {channels, prefix, ircName, token} = require('./config.js')
+const {channels, ircName, token} = require('./config.js')
 const {dcmd, icmd} = require('./commands.js')
 const _ = require('underscore')
 
