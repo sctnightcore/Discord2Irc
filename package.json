@@ -1,0 +1,30 @@
+{
+  "name": "discord2irc",
+  "version": "1.0.0",
+  "description": "A simple Discord-IRC bot designed to throw messages back and forth",
+  "main": "bot.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.2.1",
+    "irc": "^0.5.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AphoticL/Discord2Irc.git"
+  },
+  "keywords": [
+    "discord.js",
+    "irc"
+  ],
+  "author": "AphoticL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AphoticL/Discord2Irc/issues"
+  },
+  "homepage": "https://github.com/AphoticL/Discord2Irc#readme"
+}
